@@ -37,6 +37,19 @@ use warnings;
 
 <!--s-->
 
+# Why use pragmas?
+
+Without them, almost *anything* is valid perl
+<p align="left">
+  <img src="images/tweet.png">
+</p>
+<p align="right">
+  <img src="images/paper.png">
+</p>
+https://famicol.in/sigbovik/2019.pdf
+
+<!--s-->
+
 # Some Key Differences from Python
 
 '{}' and ';' are necessary because white space is not meaningful.
